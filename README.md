@@ -1,1 +1,1 @@
-Started learning HTML
+print("Learing Python")
